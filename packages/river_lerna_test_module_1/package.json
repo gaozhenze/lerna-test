@@ -1,6 +1,6 @@
 {
   "name": "river_lerna_test_module_1",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.11",
-    "river_lerna_test_module_2": "^0.0.2"
+    "river_lerna_test_module_2": "^0.0.3"
   }
 }
