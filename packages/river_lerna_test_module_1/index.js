@@ -2,6 +2,6 @@ const _ = require('lodash')
 
 module.exports = {
   test: function(){
-    console.log('12')
+    console.log('123')
   }
 }
