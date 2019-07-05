@@ -1,5 +1,5 @@
 {
-  "name": "river_lerna_test_module_2",
+  "name": "river_lerna_module2",
   "version": "0.0.3",
   "description": "",
   "main": "index.js",
@@ -8,5 +8,6 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "726982ccfd67f3fdd706baee0ee1b348287f4caa"
 }
