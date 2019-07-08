@@ -1,6 +1,6 @@
 {
   "name": "river_lerna_module2",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "keywords": [],
   "author": "",
   "dependencies": {
-    "river_lerna_module1": "^0.0.4"
+    "river_lerna_module1": "^0.0.5"
   },
   "license": "ISC",
   "gitHead": "726982ccfd67f3fdd706baee0ee1b348287f4caa"
