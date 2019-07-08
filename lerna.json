@@ -2,5 +2,5 @@
   "packages": [
     "packages/river_lerna_module*"
   ],
-  "version": "0.0.6"
+  "version": "independent"
 }
