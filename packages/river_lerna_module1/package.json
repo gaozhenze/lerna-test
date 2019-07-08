@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.11",
-    "river_lerna_test_module_2": "^0.0.3"
+    "river_lerna_module2": "^0.0.4"
   },
   "gitHead": "726982ccfd67f3fdd706baee0ee1b348287f4caa"
 }
