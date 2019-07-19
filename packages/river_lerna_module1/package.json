@@ -1,6 +1,6 @@
 {
   "name": "river_lerna_module1",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.11",
-    "river_lerna_module2": "^0.0.8"
+    "river_lerna_module2": "^0.0.9"
   },
   "gitHead": "bb866a409b681c05288088cf7186a5dcaacdf6f2"
 }
