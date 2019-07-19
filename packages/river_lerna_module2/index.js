@@ -1,6 +1,6 @@
 var river_lerna_module1 = require('river_lerna_module1')
 
-console.log('test2')
+console.log('test23')
 
 module.exports = {
   test: function(){

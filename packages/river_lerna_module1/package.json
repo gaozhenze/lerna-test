@@ -10,8 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "lodash": "^4.17.11",
-    "river_lerna_module2": "^0.0.9"
+    "lodash": "^4.17.11"
   },
   "gitHead": "bb866a409b681c05288088cf7186a5dcaacdf6f2"
 }
