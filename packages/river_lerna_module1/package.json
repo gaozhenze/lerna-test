@@ -1,6 +1,6 @@
 {
   "name": "river_lerna_module1",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "",
   "main": "index.js",
   "scripts": {
