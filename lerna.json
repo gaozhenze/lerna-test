@@ -1,6 +1,9 @@
 {
+  "publish": {
+    "ignoreChanges": [ "test/*" ]
+  },
   "packages": [
-    "packages/river_lerna_module*"
+    "packages/*"
   ],
   "version": "independent"
 }

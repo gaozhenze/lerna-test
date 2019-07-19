@@ -3,6 +3,6 @@ const _ = require('lodash')
 
 module.exports = {
   test: function(){
-    return '123'
+    return '1234'
   }
 }
